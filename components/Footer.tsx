@@ -162,7 +162,7 @@ const Footer = () => {
                             <li>
                                 <a
                                     target="_blank"
-                                    href="https://wa.me/243828379987"
+                                    href="https://wa.me/243832142669"
                                     data-auto-id="true"
                                     id="page-footer-https-www-youtube-com-channel-ucy6vodc_wyzj4rlslixgp1q-1"
                                 >
